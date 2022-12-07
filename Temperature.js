@@ -1,8 +1,9 @@
 /*
 #Device Information
- 
+ Espruino Pico rev 1.3/1.4
 #Programm Logistics
-
+ This file is part of Espruino, a JavaScript interpreter for Microcontrollers
+ Program developer: Integrated Control Systems
 #Debugg Information
 
 */
