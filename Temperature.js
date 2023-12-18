@@ -5,6 +5,7 @@
  This file is part of Espruino, a JavaScript interpreter for Microcontrollers
  Program developer: Integrated Control Systems
 #Debugg Information
+ use Git https://git-scm.com/ to form a local repository
 
 */
 
