@@ -6,7 +6,7 @@
  Program developer: Integrated Control Systems
 #Debugg Information
  use Git https://git-scm.com/ to form a local repository
-
+ be sure to track the ID number generated for saves
 */
 
 var n = 0;l = 0;
